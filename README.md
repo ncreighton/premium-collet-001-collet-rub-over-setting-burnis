@@ -1,0 +1,2 @@
+# premium-collet-001-collet-rub-over-setting-burnis
+Stop losing track of your collet-setting progress. Every rub-over technique variation, burnisher angle, and pressure adjustment—logged and analyzed in one Notion template.  This template eliminates guesswork by providing a structured log for every burnisher technique you try. Instead of repeating mistakes, you systematically record each setting's p
